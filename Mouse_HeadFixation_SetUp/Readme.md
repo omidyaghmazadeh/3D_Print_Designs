@@ -9,4 +9,4 @@ The stand.stl and walls.stl might be printed by most printers without issue.
 This headfixation system was modified based on Mihaly Voroslakos' design available at:
 https://github.com/misiVoroslakos/3D_printed_designs/tree/main/mouse_treadmill_RF.
 
-The designs are distributed under GNU GPLv3 license.
+This design is distributed under GNU GPLv3 license.
