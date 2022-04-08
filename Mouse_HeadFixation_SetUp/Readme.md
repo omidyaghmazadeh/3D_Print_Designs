@@ -1,7 +1,7 @@
 This is a headfixation set-up for neuroscience experiments on mice. 
 The head-cap is designed to provide a large surface on the skull for implanting probes, fibers, etc.
 
-![HeadFixed_Miniscope v9](https://user-images.githubusercontent.com/32208791/162525363-b67a4257-0229-4791-bbea-9cef29de781e.png)
+![HeadFixed_Miniscope v9](https://user-images.githubusercontent.com/32208791/162526027-062fc2fe-99b2-48af-bceb-846b270db90b.png)
 
 Parts with finer dimensions are optimized for Form 2 printer from Formlab. Adjustment might be needed for other printers.
 The stand.stl and walls.stl might be printed by most printers without issue.
