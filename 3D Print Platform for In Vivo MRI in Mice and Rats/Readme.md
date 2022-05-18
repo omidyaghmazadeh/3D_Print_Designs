@@ -7,6 +7,8 @@ The head-cap is designed to provide a large surface on the skull for implanting 
 Parts with finer dimensions are optimized for Form 2 printer from Formlab. Adjustment might be needed for other printers.
 The stand.stl and walls.stl might be printed by most printers without issue.
 
+For any question or concern please contact omid.yaghmazadeh@gmail.com
+
 The headfixation mechanism was modified based on Mihaly Voroslakos' design available at:
 https://github.com/misiVoroslakos/3D_printed_designs/tree/main/mouse_treadmill_RF.
 
