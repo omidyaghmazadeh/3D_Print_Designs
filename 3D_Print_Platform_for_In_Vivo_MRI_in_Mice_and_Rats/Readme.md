@@ -7,6 +7,8 @@ The design is made in a collaborative effort between the Buzsaki Lab (Neuroscien
 Parts with finer dimensions are optimized for Form 2 printer from Formlab. Adjustment might be needed for other printers.
 The stand.stl and walls.stl might be printed by most printers without issue.
 
+The complete and easy-to-modify design (developed using Autodesk Fusion 360) is available at: https://a360.co/3u0Dsnh. 
+
 For any question or concern please contact omid.yaghmazadeh@gmail.com
 
 The headfixation mechanism was modified based on Mihaly Voroslakos' design available at:
