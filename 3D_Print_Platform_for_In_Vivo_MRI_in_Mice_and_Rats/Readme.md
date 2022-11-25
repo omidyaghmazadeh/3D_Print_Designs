@@ -1,4 +1,4 @@
-This is an open-source versatile animal conditiong set-up for MRI experiments on mice and rats. 
+This is an open-source versatile animal conditiong set-up for MRI (an other imaging) experiments on mice and rats. 
 The design is made in a collaborative effort between the Buzsaki Lab (Neuroscience Institute), the Alon Lab (Radiology Dep.) and the Preclinical Imaging Lab (Radiology Dep.) at the NYU Langone Medical Center.
 
 ![RodentMRI_bed](https://user-images.githubusercontent.com/32208791/169139475-5042117c-0726-4fa8-8aa3-01f766d68fce.png)
