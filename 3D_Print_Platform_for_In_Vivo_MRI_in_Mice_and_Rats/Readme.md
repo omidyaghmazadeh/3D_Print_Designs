@@ -16,7 +16,7 @@ https://github.com/misiVoroslakos/3D_printed_designs/tree/main/mouse_treadmill_R
 
 This design is distributed under the GNU GPLv3 license.
 
---> If you use our designs, please cite our paper:
+--> If you use our design, please cite our paper:
 Ben Youss, Z., Arefin, T.M., et al. Open-source versatile 3D-print animal conditioning platform design for in vivo preclinical brain imaging in awake mice and anesthetized mice and rats. Lab Anim 53, 33–42 (2024). https://doi.org/10.1038/s41684-023-01320-z
 
 
